@@ -1,0 +1,24 @@
+{
+  "name": "slider-simple",
+  "version": "0.1.0",
+  "description": "A dependency-free, fast and lightweight slider",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enes5519/slider-simple.git"
+  },
+  "keywords": [
+    "slider",
+    "simple-slider",
+    "carousel",
+    "slide",
+    "lightweight",
+    "fast"
+  ],
+  "author": "Enes5519",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enes5519/slider-simple/issues"
+  },
+  "homepage": "https://github.com/Enes5519/slider-simple#readme"
+}

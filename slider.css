@@ -1,0 +1,35 @@
+.slider{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-height: 300px;
+}
+
+.slider-content{
+    height: 100%;
+    overflow: hidden;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.slider-content > .slider-items{
+    display: flex;
+    align-items: center;
+    transition: transform 1s;
+    height: 100%;
+}
+
+.slider-navigation{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgba(97, 97, 97, 0.5);
+    color: rgba(97, 97, 97,1.0);
+    border-radius: 50%;
+    cursor: pointer;
+    user-select: none;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    font-size: 3rem;
+}
