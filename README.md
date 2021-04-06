@@ -6,6 +6,10 @@ A dependency-free, fast and lightweight slider.
 
 ## Example
 ```html
+<!-- Import CSS -->
+<link rel="stylesheet" href="node_modules/slider-simple/slider.css">
+
+<!-- Implement Slider -->
 <div class="test slider">
     <div class="slider-navigation">&#11013;</div>
     <div class="slider-content">
