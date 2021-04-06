@@ -1,9 +1,8 @@
 # Simple Slider
 A dependency-free, fast and lightweight slider.
 
-<br>
-<img src="https://img.shields.io/bundlephobia/min/slider-simple?style=for-the-badge" alt="Simple Slider Minified Size">
-<img src="https://img.shields.io/github/package-json/v/Enes5519/slider-simple?color=%2300C853&style=for-the-badge" alt="Simple Slider Version">
+[![Simple Slider Minified Size](https://img.shields.io/bundlephobia/min/slider-simple?style=for-the-badge)](https://www.npmjs.com/package/slider-simple)
+[![Simple Slider Version](https://img.shields.io/github/package-json/v/Enes5519/slider-simple?color=%2300C853&style=for-the-badge)](https://www.npmjs.com/package/slider-simple)
 
 ## Example
 ```html
