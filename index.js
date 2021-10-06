@@ -1,4 +1,4 @@
-const DEFAULT_OPTIONS = Object.freeze({perPage: 3, gap: 16});
+const DEFAULT_OPTIONS = {perPage: 3, gap: 16};
 
 class Slider{
     constructor(selector, options = DEFAULT_OPTIONS) {
